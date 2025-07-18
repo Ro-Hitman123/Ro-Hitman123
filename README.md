@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋 Everyone, It's me Kritaga Khanal</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate developer from Nepal</h3>
 <br>
 <br>
 <br>
