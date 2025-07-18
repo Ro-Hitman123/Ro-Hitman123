@@ -21,8 +21,7 @@
 ###
 
 <div align="center">
-  api/visitors.js
-  visitors.js
+
 </div>
 
 
