@@ -44,7 +44,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ro-Hitman123&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=Ro-Hitman123&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://nirzak-streak-stats.vercel.app/?user=Ro-Hitman123&theme=vue-dark&hide_border=true)
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ro-Hitman123&bg_color=19232f&color=43d787&line=43d787&point=43d787&area=true&hide_border=true&custom_title=Contribution%20Graph)
-
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ro-Hitman123&bg_color=1b2838&color=45bf7d&line=45bf7d&point=45bf7d&area=true&hide_border=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) ->
 
