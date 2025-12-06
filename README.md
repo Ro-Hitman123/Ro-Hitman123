@@ -11,7 +11,7 @@
 
 <div align= "center">
 <p align="center">
-<a href="https://linkedin.com/in/kritagya khanal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kritagya khanal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kritagya khanal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readm nie-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kritagya khanal" height="30" width="40" /></a>
 <a href="https://fb.com/kritagya khanal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kritagya khanal" height="30" width="40" /></a>
 <a href="https://instagram.com/kritagya khanal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kritagya khanal" height="30" width="40" /></a>
 </p>
@@ -45,5 +45,5 @@
 [![](https://visitcount.itsvg.in/api?id=Ro-Hitman123&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://nirzak-streak-stats.vercel.app/?user=Ro-Hitman123&theme=vue-dark&hide_border=true)
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ro-Hitman123&bg_color=1b2838&color=45bf7d&line=45bf7d&point=45bf7d&area=true&hide_border=true)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in )->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) ->
 
