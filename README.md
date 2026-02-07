@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋 Everyone, It's me Kritagya Khanal</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 <br> 
-<br>.      
+<br>.        
 <br>
 <div align="center">
   <img height="250".  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
